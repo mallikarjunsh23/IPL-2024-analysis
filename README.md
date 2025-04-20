@@ -10,35 +10,36 @@ This data analysis project aims to provide deep insights into team strategies, p
 
 ### Tools
 
--Excel-data creating
--MySQL-data manipulating
--Python (pandas, Plotly)-data analysis and visualisation 
+- Excel-data creating
+- MySQL-data manipulating
+- Python (pandas, Plotly)-data analysis and visualisation 
 
 
 ### Exploratory Data analysis
 
 EDA involved exploring the IPL data to answer key questions,such as:
 
--which team is good at Chasing and Defending?
--which stadium is good for Chasing and Defending?
--which batsman is good at creating and handling pressure?
--which bowler is good at creating and handling pressure?
+- which team is good at Chasing and Defending?
+- which stadium is good for Chasing and Defending?
+- which batsman is good at creating and handling pressure?
+- which bowler is good at creating and handling pressure?
+- indentifying match changing player?
 
 
 ### Process
 
--Explore the data to MySQL to create won by columns by writing query.
--Export the data from MySQL to excel to paste the column which containing venue data.
--Changing the data name in dataset with map code.
--Created charts in the python with help of plotly library.  
+- Explore the data to MySQL to create won by columns by writing query.
+- Export the data from MySQL to excel to paste the column which containing venue data.
+- Changing the data name in dataset with map code.
+- Created charts in the python with help of plotly library.  
 
 ### Results/Findings
 
--Rajasthan is good at chasing & Delhi is good at defending Kolkata & Hyderabad good at both.
--Chidambaram stadium, Chennai & Narendra Modi Stadium, Ahmadabad good for chasing, Arun Jetli Stadium, Delhi and Wankhade Stadium, Mumbai good for defending.
--Ruturaj is good at Chennai in both innings and Virat Kohli is good all stadium in both innings
--Michel Starc & Andre Russel is good at creating pressure in bowling and Bumrah & T Natarajan good at handling pressure
--Abhishek sharm is match changing player at Hyderaba but can be other stadiums also so does Sunil Naren
+- Rajasthan is good at chasing & Delhi is good at defending Kolkata & Hyderabad good at both.
+- Chidambaram stadium, Chennai & Narendra Modi Stadium, Ahmadabad good for chasing, Arun Jetli Stadium, Delhi and Wankhade Stadium, Mumbai good for defending.
+- Ruturaj is good at Chennai in both innings and Virat Kohli is good all stadium in both innings
+- Michel Starc & Andre Russel is good at creating pressure in bowling and Bumrah & T Natarajan good at handling pressure
+- Abhishek sharm is match changing player at Hyderaba but can be other stadiums also so does Sunil Naren
 
 ### Final Conclusion
 
