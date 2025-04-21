@@ -12,7 +12,8 @@ This data analysis project aims to provide deep insights into team strategies, p
 
 - Excel-data creating
 - MySQL-data manipulating
-- Python (pandas, Plotly)-data analysis and visualisation 
+- Python-data analysis and visualisation
+- PowerBi-data visualisation
 
 
 ### Exploratory Data analysis
@@ -31,7 +32,7 @@ EDA involved exploring the IPL data to answer key questions,such as:
 - Explore the data to MySQL to create won by columns by writing query.
 - Export the data from MySQL to excel to paste the column which containing venue data.
 - Changing the data name in dataset with map code.
-- Created charts in the python with help of plotly library.  
+- Created the dashboard in PowerBi.  
 
 ### Results/Findings
 
